@@ -1,43 +1,46 @@
 {
-    "barang":[
-      { 
-        "id_barang": 1, 
-        "nama_barang": "IPHONE 14 PROMAX", 
-        "harga": "20000000",
-        "deskripsi" : "IPHONE 14 PROMAX GARANSI RESMI IBOX",
-        "gambar" : "iphone1.png" 
-      },
-      { 
-        "id_barang": 2, 
-        "nama_barang": "ASUS ROG PHONE 6 ", 
-        "harga": "15000000",
-        "deskripsi" : "ASUS ROG PHONE 6  Garansi resmi asus 2tahun",
-        "gambar" : "asus.png" 
-      },
-      { 
-        "id_barang": 3, 
-        "nama_barang": "MACBOOK PRO 256GB", 
-        "harga": "8000000",
-        "deskripsi" : "MACBOOK PRO 256GB spesifikasi intel core i9 13400F RTX 4090",
-        "gambar" : "mackbook.png" 
-      },
-      { 
-        "id_barang": 4, 
-        "nama_barang": "IPHONE 14 PROMAX", 
-        "harga": "20000000",
-        "deskripsi" : "IPHONE 14 PROMAX GARANSI RESMI IBOX",
-        "gambar" : "iphone4.png" 
-      },
-      { 
-        "id_barang": 5, 
-        "nama_barang": "IPHONE 14 PROMAX", 
-        "harga": "20000000",
-        "deskripsi" : "IPHONE 14 PROMAX GARANSI RESMI IBOX",
-        "gambar" : "iphone5.png" 
-      }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "barang": [
+    {
+      "id": 1,
+      "nama_barang": "IPHONE 14 PROMAX",
+      "harga": "20000000",
+      "deskripsi": "IPHONE 14 PROMAX GARANSI RESMI IBOX",
+      "gambar": "iphone1.png"
+    },
+    {
+      "id": 2,
+      "nama_barang": "ASUS ROG PHONE 6 ",
+      "harga": "15000000",
+      "deskripsi": "ASUS ROG PHONE 6  Garansi resmi asus 2tahun",
+      "gambar": "asus.png"
+    },
+    {
+      "id": 3,
+      "nama_barang": "MACBOOK PRO 256GB",
+      "harga": "8000000",
+      "deskripsi": "MACBOOK PRO 256GB spesifikasi intel core i9 13400F RTX 4090",
+      "gambar": "mackbook.png"
+    },
+    {
+      "id": 4,
+      "nama_barang": "IPHONE 14 PROMAX",
+      "harga": "20000000",
+      "deskripsi": "IPHONE 14 PROMAX GARANSI RESMI IBOX",
+      "gambar": "iphone4.png"
+    },
+    {
+      "id": 5,
+      "nama_barang": "IPHONE 14 PROMAX",
+      "harga": "20000000",
+      "deskripsi": "IPHONE 14 PROMAX GARANSI RESMI IBOX",
+      "gambar": "iphone5.png"
+    },
+    {
+      "id": 1668251972529,
+      "nama_barang": "Barang Original Product",
+      "harga": "250000",
+      "deskripsi": "Barang original product tasikmalaya store",
+      "gambar": ""
+    }
+  ]
+}

@@ -24,7 +24,7 @@ class TambahBarang extends Component {
     const { PostAPI } = this.props;
 
     const data = {
-      id_barang : new Date().getTime(),
+      id : new Date().getTime(),
       nama_barang : nama_barang,
       harga : harga,
       deskripsi : deskripsi,

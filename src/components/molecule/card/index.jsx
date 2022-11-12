@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Card, Button } from "react-bootstrap";
 import Img1 from "./../../../assets/img/1.jpg";
 
-const CardComponent = ({id_barang, nama_barang, harga, deskripsi}) => {
+const CardComponent = ({id, nama_barang, harga, deskripsi}) => {
   return (
-    <Card style={{ width: "18rem" }} key={id_barang} className="me-2 mt-2">
+    <Card style={{ width: "18rem" }} key={id} className="me-2 mt-2">
       <Card.Img variant="top" src={Img1} />
       <Card.Body>
         <Card.Title>{nama_barang}</Card.Title>

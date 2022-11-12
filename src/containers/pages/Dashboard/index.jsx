@@ -31,9 +31,9 @@ class Dashboard extends Component {
             </div>
           </div>
           <div className="d-flex flex-wrap justify-content-center">
-            {data.map((brg) => {
+            {data.map((brg, index) => {
               return (
-                <CardComponent id_barang={brg.id_barang} nama_barang={brg.nama_barang} harga={brg.harga} deskripsi={brg.deskripsi} />
+                <CardComponent id={index} nama_barang={brg.nama_barang} harga={brg.harga} deskripsi={brg.deskripsi} />
               );
             })}
           </div>
